@@ -2,3 +2,8 @@ body {
     background-color: dodgerblue;
     color: #fff;
 }
+p {
+    font-weight: bold;
+    font-family: cursive;
+    color: red;
+}
